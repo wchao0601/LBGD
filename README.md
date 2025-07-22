@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 | Dataset | Image Size |
 | :---: | :---: |
-| SODA-A |800 x 800|
+| DIOR-R |800 x 800|
 
 
 ### Train
