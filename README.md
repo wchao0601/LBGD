@@ -7,7 +7,11 @@
 
 ## ✨ Overview
 Feature-based knowledge distillation has attracted significant attention in remote sensing object detection. The main challenge in this method is that feature distillation may misguide the detection of tiny remote-sensing objects due to the lack of local background priors. To address this issue, this paper proposes the Localized Background-aware Generative Distillation (LBGD) method, which incorporates two key components: the lightweight diffusion reconstructor (LDR) and the patch-wise channel distillation loss (PCD). LDR dynamically adjusts the receptive field to effectively capture the local background information surrounding the target. Meanwhile, PCD emphasizes the most salient patch regions in each channel, reducing the impact of global background information. To the best of our knowledge, localized background-aware generative distillation mechanisms have not been previously explored in remote sensing object detection. Numerous experimental results demonstrate that LBGD brings significant performance improvements, for example, SODA-A (+1.9\% $mAP$), and DIOR (+2.8\% $mAP$).
-
+<p align="center"> <img src="https://github.com/wchao0601/LBGD/blob/master1/LBGD-Network.png" width="99.5%"> </p>
+<div align="center"; style="text-align: center; display: flex; justify-content: space-between;">
+    <img src="https://github.com/wchao0601/LBGD/blob/master1/DRM.png" alt="Image 1" style="width: 49%;" />
+    <img src="https://github.com/wchao0601/LBGD/blob/master1/PCD.png" alt="Image 2" style="width: 49%;" />
+</div>
 
 
 ## 📄 Documentation
