@@ -1,6 +1,7 @@
 <div align="center">
 <!-- <h1> LBGD </h1> -->
 <h2> <a href="">Localized Background-aware Generative Distillation for Enhanced Remote Sensing Object Detection</h2>
+<h3> Chao Wang, Yanguang Sun, Jian Yang, Lei Luo*</h3>
 <h4> 2025</h4>
 </div>
 
