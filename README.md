@@ -64,29 +64,19 @@ If you have any questions, please feel free to contact me via email at wchao0601
 ## 📚 Citation
 If our work is helpful, you can cite our paper:
 ```
+@article{wang2025msod,
+  title={MSOD: A Large-Scale Multi-Scene Dataset and a Novel Diagonal-Geometry Loss for SAR Object Detection},
+  author={Wang, Chao and Fang, Wenxuan and Li, Xiang and Yang, Jian and Luo, Lei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2025},
+  publisher={IEEE}
+}
+
 @article{wang2025m4,
   title={M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Fusion Object Detection},
   author={Wang, Chao and Lu, Wei and Li, Xiang and Yang, Jian and Luo, Lei},
   journal={arXiv preprint arXiv:2505.10931},
   year={2025}
-}
-
-@inproceedings{wang2025cross,
-  title={Cross-modal Gaussian Localization Distillation for Optical Information guided SAR Object Detection},
-  author={Wang, Chao and Luo, Lei and Fang, Wenxuan and Yang, Jian},
-  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={1--5},
-  year={2025},
-  organization={IEEE}
-}
-
-@inproceedings{wang2024psekd,
-  title={Psekd: Phase-shift encoded knowledge distillation for oriented object detection in remote sensing images},
-  author={Wang, Chao and Yue, Yubiao and Luo, Bingchun and Chen, Yujie and Xue, Jun},
-  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={2680--2684},
-  year={2024},
-  organization={IEEE}
 }
 
 @article{wang2023category,
