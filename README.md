@@ -2,7 +2,7 @@
 <!-- <h1> LBGD </h1> -->
 <h2> <a href="">Localized Background-aware Generative Distillation for Enhanced Remote Sensing Object Detection</h2>
 <h3> Chao Wang, Yanguang Sun, Jian Yang, Lei Luo*</h3>
-<h4> 2025</h4>
+<h4> Accepted to IEEE TCSVT 2026</h4>
 </div>
 
 
@@ -64,6 +64,14 @@ If you have any questions, please feel free to contact me via email at wchao0601
 ## 📚 Citation
 If our work is helpful, you can cite our paper:
 ```
+@article{wang2026localized,
+  title={Localized Background-aware Generative Distillation for Enhanced Remote Sensing Object Detection},
+  author={Wang, Chao and Sun, Yanguang and Yang, Jian and Luo, Lei},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2026},
+  publisher={IEEE}
+}
+
 @article{wang2025msod,
   title={MSOD: A Large-Scale Multi-Scene Dataset and a Novel Diagonal-Geometry Loss for SAR Object Detection},
   author={Wang, Chao and Fang, Wenxuan and Li, Xiang and Yang, Jian and Luo, Lei},
