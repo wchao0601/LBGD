@@ -72,19 +72,21 @@ If our work is helpful, you can cite our paper:
   publisher={IEEE}
 }
 
+@inproceedings{wang2026m4,
+  title={M4-SAR: A multi-resolution, multi-polarization, multi-scene, multi-source dataset and benchmark for optical-SAR object detection},
+  author={Wang, Chao and Lu, Wei and Li, Xiang and Yang, Jian and Luo, Lei},
+  booktitle={European Conference on Computer Vision},
+  pages={538--556},
+  year={2026},
+  organization={Springer}
+}
+
 @article{wang2025msod,
   title={MSOD: A Large-Scale Multi-Scene Dataset and a Novel Diagonal-Geometry Loss for SAR Object Detection},
   author={Wang, Chao and Fang, Wenxuan and Li, Xiang and Yang, Jian and Luo, Lei},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2025},
   publisher={IEEE}
-}
-
-@article{wang2025m4,
-  title={M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Fusion Object Detection},
-  author={Wang, Chao and Lu, Wei and Li, Xiang and Yang, Jian and Luo, Lei},
-  journal={arXiv preprint arXiv:2505.10931},
-  year={2025}
 }
 
 @article{wang2023category,
