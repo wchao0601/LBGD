@@ -30,9 +30,9 @@ pip install -r requirements.txt
 
 ### Data Preparation
 
-| Dataset | Down-Link | Image Size |
-| :---: | :---: | :---: |
-| DIOR-R | [Baidu](https://pan.baidu.com/s/1uLwBVIG2NPUSrAxXbVUt3g?pwd=0601)|800 x 800|
+| Dataset | Down-Link | Link Code | Image Size |
+| :---: | :---: | :---: | :---: |
+| DIOR-R | [Baidu](https://pan.baidu.com/s/1uLwBVIG2NPUSrAxXbVUt3g?pwd=0601)|0601|800 x 800|
 
 
 ### Train
@@ -54,9 +54,9 @@ python predict.py
 <p align="center"> <img src="https://github.com/wchao0601/LBGD/blob/master1/results.png" width="99.5%"> </p>
 <p align="center"> <img src="https://github.com/wchao0601/LBGD/blob/master1/detect-vis1.png" width="99.5%"> </p>
 
-|  Model     | YOLOv8S | YOLOv8N | Mimic | CWD | MGD | PKD | CrossKD | LSKD | LBGD (Ours)|
-| :---:      | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|  Weights   |[Download](https://pan.baidu.com/s/1wLSLH8xxIRUmrbhCGv59bQ?pwd=0601)|[Download](https://pan.baidu.com/s/1yHA6ER-iT2gV-KMYh9XKjQ?pwd=0601)|[Download](https://pan.baidu.com/s/1s10Dgkc4AHA0ERQI0MynNg?pwd=0601)|[Download](https://pan.baidu.com/s/1gl8I_uJENIfLNPCIBMWmIg?pwd=0601)|[Download](https://pan.baidu.com/s/1Iz16XkU_JB8PBKTMfxWnSA?pwd=0601)|[Download](https://pan.baidu.com/s/1B4gMxwclgogyCosHkYla3A?pwd=0601)|[Download](https://pan.baidu.com/s/1_UvWYoRsh15UYMBkWJYeAg?pwd=0601)|[Download](https://pan.baidu.com/s/18w-6Z23H40oRO_uCRgIXhQ?pwd=0601)|[Download](https://pan.baidu.com/s/16aKLoscwT10lvOEXE0Pvuw?pwd=0601)|
+|  Model     | Link Code | YOLOv8S | YOLOv8N | Mimic | CWD | MGD | PKD | CrossKD | LSKD | LBGD (Ours)|
+| :---:      | :---: | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  Weights   |0601|[Download](https://pan.baidu.com/s/1wLSLH8xxIRUmrbhCGv59bQ?pwd=0601)|[Download](https://pan.baidu.com/s/1yHA6ER-iT2gV-KMYh9XKjQ?pwd=0601)|[Download](https://pan.baidu.com/s/1s10Dgkc4AHA0ERQI0MynNg?pwd=0601)|[Download](https://pan.baidu.com/s/1gl8I_uJENIfLNPCIBMWmIg?pwd=0601)|[Download](https://pan.baidu.com/s/1Iz16XkU_JB8PBKTMfxWnSA?pwd=0601)|[Download](https://pan.baidu.com/s/1B4gMxwclgogyCosHkYla3A?pwd=0601)|[Download](https://pan.baidu.com/s/1_UvWYoRsh15UYMBkWJYeAg?pwd=0601)|[Download](https://pan.baidu.com/s/18w-6Z23H40oRO_uCRgIXhQ?pwd=0601)|[Download](https://pan.baidu.com/s/16aKLoscwT10lvOEXE0Pvuw?pwd=0601)|
 
 ## 🌐 Contact
 If you have any questions, please feel free to contact me via email at wchao0601@163.com
